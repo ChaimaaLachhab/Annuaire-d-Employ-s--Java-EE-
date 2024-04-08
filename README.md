@@ -4,7 +4,7 @@ This repository contains the source code of an employee management web applicati
 
 ## Project Overview
 
-As a freelance full stack Java developer, the goal is to create a web application that allows for adding, viewing, updating, and deleting employee records in an intuitive manner. Here are the key features of the application:
+The goal is to create a web application that allows for adding, viewing, updating, and deleting employee records in an intuitive manner. Here are the key features of the application:
 
 - **Employee Management**:
   - Adding a new employee by entering details such as name, email, phone number, department, and position.
